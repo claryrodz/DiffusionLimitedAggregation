@@ -6,3 +6,7 @@ This MATLAB algorithm generates a diffusion-limited aggregation (DLA) cluster in
 
 Variable parameters: Total # of particles, maximum lattice radius, drift probability
 
+## Inwards fractal growth and sticking probability
+
+This was the more creative part of the project, where I drew clusters inwards from a circle with a set radius by occupying each new particle at the center. A sticking probability is added which determines the probability of a particle sticking to a cluster when it is adjacent to it. In the main code algorithm, this probability is assumed to be 1.
+
