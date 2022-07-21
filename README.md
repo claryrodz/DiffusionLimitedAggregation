@@ -18,3 +18,5 @@ Variable parameters: Total # of particles, sticking probability
 
 To use: Run P_stick/stickingcode.m
 
+ ![GitHub Logo](/images/DLA_Pstick.jpg)
+
