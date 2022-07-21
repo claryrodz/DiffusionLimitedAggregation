@@ -6,10 +6,13 @@ This MATLAB algorithm generates a diffusion-limited aggregation cluster in a 2-d
 
 <figure>
   <img src="/images/DLA_cluster.jpg" height="300">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption>P_{drift} = 0</figcaption>
 </figure>
 
-<img src="/images/DLA_cluster.jpg" height="300"> <img src="/images/DLA_Pdrift2.png" height="300">
+<figure>
+  <img src="/images/DLA_Pdrift2.png" height="300">
+  <figcaption>P_{drift} = 1</figcaption>
+</figure>
 
 Variable parameters: Total # of particles, maximum lattice radius, drift probability
 
