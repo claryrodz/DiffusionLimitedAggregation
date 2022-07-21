@@ -21,5 +21,5 @@ Variable parameters: Total # of particles, sticking probability
 To use: Run P_stick/stickingcode.m
 
 <img src="/images/DLA_Pstick.jpg" width="400">
-Pstick = 1
+P_stick = 1
 
