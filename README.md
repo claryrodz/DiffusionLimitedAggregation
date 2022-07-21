@@ -9,6 +9,7 @@ Variable parameters: Total # of particles, maximum lattice radius, drift probabi
 To use: Run main_DLA/maincode.m
 
 <img src="/images/DLA_cluster.jpg" height="300"> <img src="/images/DLA_Pdrift2.png" height="300">
+
 P_drift = 0 (left), P_drift = 1 (right)
 
 ## Inwards fractal growth and sticking probability (P_stick)
